@@ -1,0 +1,16 @@
+.clock-container {
+    font-size: 48px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+}
+body{
+    background-image: url('https://wallpapermural.com/cdn/shop/products/Subtle-Botany_Artwork.jpg?v=1680120255');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
